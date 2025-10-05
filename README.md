@@ -14,10 +14,9 @@
 
 
 ---
-Default Credentials 
-
-Username: admin
-Password: Asplat@1234
+## Default Credentials 
+* Username: admin
+* Password: Asplat@1234
 
 ## Overview
 
