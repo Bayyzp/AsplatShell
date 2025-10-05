@@ -3,8 +3,8 @@ session_start();
 error_reporting(0);
 
 // Login Configuration - CHANGE THESE!
-$valid_username = "admin";
-$valid_password = "admin123";
+$valid_username = "./bayy1337";
+$valid_password = "Asplat@1234";
 
 // Check if user is logged in
 function isLoggedIn() {
@@ -3540,3 +3540,4 @@ function format_size($size) {
     return round($size, 2) . ' ' . $units[$unit];
 }
 ?>
+
