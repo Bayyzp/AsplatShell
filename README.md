@@ -15,7 +15,7 @@
 
 ---
 ## Default Credentials 
-* Username: admin
+* Username: ./bayy1337
 * Password: Asplat@1234
 
 ## Overview
