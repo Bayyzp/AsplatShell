@@ -48,12 +48,13 @@ If you are performing security testing, ensure you:
 ---
 
 ## Preview 1
-<div align="center">
-  ![Preview 1](https://d.top4top.io/p_3565x6hbs1.png)
-</div>
-<div align="center">
-  ![Preview 2](https://e.top4top.io/p_3565c3fno2.png)
-</div>
+<p align="center">
+  <img src="https://d.top4top.io/p_3565x6hbs1.png" alt="Preview 1" width="600">
+</p>
+
+<p align="center">
+  <img src="https://e.top4top.io/p_3565c3fno2.png" alt="Preview 2" width="600">
+</p>
 
 
 ```bash
