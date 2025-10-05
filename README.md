@@ -47,14 +47,14 @@ If you are performing security testing, ensure you:
 
 ---
 
-## Preview 1
+## Preview 
 <p align="center">
-  <img src="https://d.top4top.io/p_3565x6hbs1.png" alt="Preview 1" width="600">
+  <img src="https://e.top4top.io/p_3565c3fno2.png" alt="Preview 2" width="100%>
+</p>
+<p align="center">
+  <img src="https://d.top4top.io/p_3565x6hbs1.png" alt="Preview 1" width="100%">
 </p>
 
-<p align="center">
-  <img src="https://e.top4top.io/p_3565c3fno2.png" alt="Preview 2" width="600">
-</p>
 
 
 ```bash
