@@ -1,4 +1,4 @@
-# Asplat Shell — Asplat File Manager (FOR AUTHORIZED & LEGAL USE ONLY)
+# Asplat Shell — Asplat File Manage
 
 > [!WARNING]
 > This is a PHP webshell. Please use it responsibly. If misused, I, as the creator, will not be responsible. Misuse of this file may violate laws or regulations, and the user is fully responsible. This file was created for a good purpose.
