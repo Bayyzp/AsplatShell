@@ -55,8 +55,3 @@ If you are performing security testing, ensure you:
   <img src="https://d.top4top.io/p_3565x6hbs1.png" alt="Preview 1" width="100%">
 </p>
 
-
-
-```bash
-chown -R www-data:www-data /var/www/asplat
-chmod -R 750 /var/www/asplat
