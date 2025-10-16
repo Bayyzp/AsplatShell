@@ -3,8 +3,8 @@ session_start();
 error_reporting(0);
 
 // Login Configuration - CHANGE THESE!
-$valid_username = "./bayy1337";
-$valid_password = "Asplat@1234";
+$valid_username = "1234!!Babi";
+$valid_password = "1234!!Babi";
 
 // Check if user is logged in
 function isLoggedIn() {
