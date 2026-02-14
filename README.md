@@ -50,8 +50,4 @@ If you are performing security testing, ensure you:
 
 ---
 
-## Preview 
-<p align="center">
-  <img src="https://d.top4top.io/p_3565x6hbs1.png" alt="Preview 1" width="100%">
-</p>
 
